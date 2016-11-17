@@ -1,0 +1,144 @@
+
+
+*{margin:0; padding:0; font-size:12px;} 
+
+a{text-decoration: none;}
+
+
+
+#top{height:27px; width:100%; background:url(../images/top_bg.jpg) repeat-x;}
+
+#top_content{ width:1000px; margin:0 auto;}
+
+#top_content li{
+	list-style-image:url(../images/arrow.jpg);
+    float:right; line-height:27px;     
+	width:70px;}
+	
+#top_content a:link ,#top_content a:visited{  color: #8E8E8E;}
+
+#top_content a:hover ,#top_content a:active{  color: #C00;}
+
+#wrap{ width:1000px; margin:0 auto;}
+
+#logo{ height:80px; background-color:#FFF;}
+
+#logo_left{ display:inline; float:left; width: 375px; height:80px;}
+
+#logo_right{ 
+
+display:inline; 
+float:right; 
+width:300px; 
+height:28px; 
+margin-top:30px; 
+color:#8E8E8E;
+}
+
+#logo_right img{ vertical-align:middle; margin-right:10px;}
+
+#tel{ font-family:"微软雅黑";
+      font-size:22px;
+	  color:#C00;
+	  }
+	  
+#nav{ height:40px;}	 
+#nav_left { 
+			width:10px;
+			height:40px;
+			background:url(../images/nav_left.jpg) no-repeat;
+			float:left;
+			
+			} 
+
+#nav_mid{ 
+			background:url(../images/nav_bg.jpg) repeat-X; 
+			height:40px; 
+			width:980px;
+			float:left;
+		    
+	
+			}
+			
+#nav_right{
+			width:10px; 
+			height:40px;
+			background:url(../images/nav_right.jpg) no-repeat;
+			float:left;
+			}
+#nav_mid_left li{
+	         list-style:none;
+			 float:left;
+			 width:100px;
+			 text-align:center;
+			 line-height:40px;
+			 font-family:"微软雅黑";
+			 }
+			 
+#nav_mid a:link,#nav_mid a:visited{
+	       
+	        font-size:16px;
+			color:#FFF;
+	}
+#nav_mid a:hover,#nav_mid a:active{
+	
+	        color:#FF0;
+	}
+	
+#nav_mid_left,#nav_mid_right{float:left;}
+#nav_mid_left{ width:680px; }
+#nav_mid_right{ width:300px;}
+#search{ width:190px; height:25px; margin-top:6px;
+         background:url(../images/search.jpg) no-repeat right center;
+		 padding-right:25px;
+		 background-color:#FFF;
+		 border:1px solid #FFF;}
+		 
+		 
+		 
+#picBox{
+	height:310px;
+	overflow:hidden;
+	}
+	
+#main{ height:250px; background:#0F3;margin-top:5px; }
+
+#news{ width:340px;
+       height:250px; 
+	   float:left; 
+	   background:red; 
+	   border:1px solid #00F;}
+	   
+#product{ width:410px;
+          height:250px; 
+		  float:left; 
+		  background:black;  
+		  border:1px solid #00F;
+		  margin: 0 7px;}
+		  
+#viedo{ width:230px;
+        height:250px; 
+		float:left; 
+		background:red;}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
